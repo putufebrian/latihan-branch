@@ -1,3 +1,3 @@
 Ini adalah repository untuk membuat branch baru di Github
 ==
-*belajar github seru*
+*belajar github di dicoding mengasyikkan*
